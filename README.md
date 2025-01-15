@@ -199,3 +199,6 @@ if query:
 para executar o aplicativo, execute o streamlit com `streamlit run app.py app.py` (ou o nome do seu arquivo que você criou) em um ambiente de execução
 
 Isto esta sendo uma fase do meu processo como Pesquisador do CNPq, espero estar disseminando mais conhecimento em portgues sobre o assunto, e qualquer dúvida ou melhoria que queira adicionar, fico a disposição, pode mandar uma PL ou um email (arthurguedes001@gmail.com) Abraço
+
+Aqui está o video de referencia usado para o código:
+https://www.youtube.com/watch?v=8cKf5GUz4TU&t=180s
