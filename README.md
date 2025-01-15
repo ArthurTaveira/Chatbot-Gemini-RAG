@@ -198,6 +198,8 @@ if query:
 
 para executar o aplicativo, execute o streamlit com `streamlit run app.py app.py` (ou o nome do seu arquivo que você criou) em um ambiente de execução
 
+Confira o Artigo no Medium: https://medium.com/@arthurguedes001/chatbot-com-rag-retrieval-augmented-generation-usando-o-llm-gemini-54070d830202
+
 Isto esta sendo uma fase do meu processo como Pesquisador do CNPq, espero estar disseminando mais conhecimento em portgues sobre o assunto, e qualquer dúvida ou melhoria que queira adicionar, fico a disposição, pode mandar uma PL ou um email (arthurguedes001@gmail.com) Abraço
 
 Aqui está o video de referencia usado para o código:
